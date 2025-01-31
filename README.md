@@ -1,5 +1,5 @@
 # portfolio
 
-Bruce's portfolio website
+Bruce's portfolio website (Version 1)
 
-Node Version: v16.19.0
+Link: https://brucezhu.dev/v1
